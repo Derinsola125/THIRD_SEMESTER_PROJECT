@@ -4,7 +4,8 @@ Note: This is currently under active development
 
 ## Table of Contents
 
-- [Student Management Student](#student-management-student)
+- [THIRD_SEMESTER_PROJECT
+](# THIRD_SEMESTER_PROJECT)
   - [Table of Contents](#table-of-contents)
   - [Live ( deployed version )](#live--deployed-version-)
   - [Testing Locally](#testing-locally)
@@ -21,7 +22,7 @@ Visit [website](http://olakaycoder1.pythonanywhere.com/)
 Clone the repository
 
 ```console
-git clone https://github.com/olakayCoder1/student_management.git
+git clone https://github.com/Derinsola125/THIRD_SEMESTER_PROJECT.git
 ```
 
 Change directory to the cloned folder
