@@ -28,7 +28,7 @@ git clone https://github.com/Derinsola125/THIRD_SEMESTER_PROJECT.git
 Change directory to the cloned folder
 
 ```console
-cd student_management
+cd STUDENT_MANAGEMENT_API
 ```
 
 Install necessary dependency to run the project
